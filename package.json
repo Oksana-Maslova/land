@@ -1,0 +1,24 @@
+{
+  "name": "fin.do.landing-page",
+  "version": "0.0.1",
+  "description": "Landing page for Fin.DO project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.reaktivate.com/fin.do/landing-page.git"
+  },
+  "author": "Reaktivate company",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "3.9.1",
+    "gulp-concat": "2.6.1",
+    "gulp-jade": "1.1.0",
+    "gulp-livereload": "3.8.1",
+    "gulp-replace": "0.5.4",
+    "gulp-sass": "3.0.0",
+    "main-bower-files": "2.13.1"
+  }
+}

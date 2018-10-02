@@ -1,0 +1,15 @@
+{
+  "name": "fin.do.landing-page",
+  "description": "Landing page for Fin.DO project",
+  "main": "gulpfile.js",
+  "authors": [
+    "Reaktivate company"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "flexboxgrid": "6.3.2",
+    "normalize-css": "5.0.0"
+  }
+}
